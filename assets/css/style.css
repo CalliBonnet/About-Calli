@@ -1,0 +1,15 @@
+
+/* Contact me button */
+.contact-me-btn {
+    border-radius: 20px; 
+    background-color: pink; 
+}
+
+.contact-me-btn:hover {
+    background-color: rgb(250, 165, 179); 
+    color: white;
+  }
+
+  .parallax {
+      background-color: aqua; 
+  }
