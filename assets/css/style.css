@@ -1,15 +1,39 @@
 
-/* Contact me button */
-.contact-me-btn {
-    border-radius: 20px; 
-    background-color: pink; 
+.top-space {
+    height: 10px; 
 }
 
-.contact-me-btn:hover {
-    background-color: rgb(250, 165, 179); 
-    color: white;
-  }
+/* buttons*/
+.contant-me-btn {
+    color: hotpink; 
+    border-color: hotpink; 
+    border-radius: 20px; 
+}
 
-  .parallax {
-      background-color: aqua; 
-  }
+.contant-me-btn:hover {
+    background-color: hotpink; 
+    border-color: hotpink; 
+}
+
+
+.nav-Bar-Content {
+   margin-bottom: 10px; 
+}
+
+
+/* Headshot and description content */
+.wrapper-calli-Head-Shot {
+    height: 400px; 
+    width: 390px; 
+}
+
+.calli-Head-Shot {
+    height: 100%; 
+    width: 100%; 
+    padding: 2px; 
+
+}
+
+.Project-Card {
+    padding: 1px; 
+}
